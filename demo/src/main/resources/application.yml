@@ -2,7 +2,7 @@
 cloud:
   aws:
     s3:
-      bucket: minggreensample
+      bucket: ming-green-sample
     stack:
       auto: false
     region:
